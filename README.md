@@ -49,3 +49,12 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 ```sh
 wget -qO- "https://github.com/DinoscapeProgramming/Appify/releases/download/v1.0.0/Appify.Setup.1.0.0.exe" > "Appify.Setup.1.0.0.exe" && chmod +x "Appify.Setup.1.0.0.exe" && "./Appify.Setup.1.0.0.exe"
 ```
+
+## Data Requirements
+**If you're trying to build a native desktop app, then you need to follow some requirements**
+| Type                          | Conditions                    |
+| ----------------------------- | ----------------------------- |
+| 🛜 **Website**                | Must be a valid [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL?retiredLocale=de) |
+| 🪧 **Name**                   | Must follow the following [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions): /^(?:(?:@(?:[a-zA-Z0-9-*~ ][a-zA-Z0-9-*._~ ]*)?\/[a-zA-Z0-9-._~ ])|[a-zA-Z0-9-~ ])[a-zA-Z0-9-._~ ]*$/ |
+| 📝 **Description**            | Must only include [ASCII-characters](https://developer.mozilla.org/en-US/docs/Glossary/ASCII?retiredLocale=de) |
+| 🖼️ **Icon**                   | Must be an [ICO-file](https://en.wikipedia.org/wiki/ICO_(file_format)) and must be at least 256x256 in image size |
