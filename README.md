@@ -58,3 +58,12 @@ wget -qO- "https://github.com/DinoscapeProgramming/Appify/releases/download/v1.0
 | 🪧 **Name**                   | Must follow the following [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions) ➡️ _/^(?:(?:@(?:[a-zA-Z0-9-*~ ][a-zA-Z0-9-*._~ ]*)?\/[a-zA-Z0-9-._~ ])|[a-zA-Z0-9-~ ])[a-zA-Z0-9-._~ ]*$/_ |
 | 📝 **Description**            | Must only include [ASCII-characters](https://developer.mozilla.org/en-US/docs/Glossary/ASCII?retiredLocale=de) |
 | 🖼️ **Icon**                   | Must be an [ICO-file](https://en.wikipedia.org/wiki/ICO_(file_format)) and must be at least _256x256_ in image size |
+
+## Self-Hosting
+```sh
+git clone https://github.com/DinoscapeProgramming/Appify.git
+cd "./Appify"
+npm install
+npm run build
+start "./build/Appify Setup 1.0.0.exe"
+```
