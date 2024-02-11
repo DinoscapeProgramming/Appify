@@ -20,7 +20,7 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 | Type                            | Platforms                               |
 | ------------------------------- | --------------------------------------- |
 | 🚨 **Bug Reports**              | [GitHub Issue Tracker]                  |
-| ❔ **FAQ**                       | [TTS/Wiki](https://github.com/DinoscapeProgramming/Appify/wiki/FAQ)                              |
+| ❔ **FAQ**                       | [Appify/Wiki](https://github.com/DinoscapeProgramming/Appify/wiki/FAQ)                              |
 | 🎁 **Feature Requests & Ideas** | [GitHub Issue Tracker]                  |
 | 👩‍💻 **Usage Questions**          | [Website]                       |
 
