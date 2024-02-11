@@ -31,8 +31,8 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 ## 🔗 Links and Resources
 | Type                            | Links                               |
 | ------------------------------- | --------------------------------------- |
-| 💾 **Installation** | [APPIFY/README.md](https://github.com/DinoscapeProgramming/Appify/tree/dev#install-appify)|
-| 👩🏾‍🏫 **Tutorials and Examples**  | [APPIFY/Wiki](https://github.com/DinoscapeProgramming/Appify/wiki/Notebooks-and-Tutorials) |
-| 🚀 **Released Versions**         | [APPIFY/Wiki](https://github.com/DinoscapeProgramming/Appify/releases/)|
-| 🤖 **Self-Hosting Appify** | [appify/README.md](https://github.com/DinoscapeProgramming/Appify#self-hosting)|
-| ✨ **How to contribute**       |[APPIFY/README.md](#contribution-guidelines)|
+| 💾 **Installation** | [Appify/README.md](https://github.com/DinoscapeProgramming/Appify/tree/dev#install-appify)|
+| 👩🏾‍🏫 **Tutorials and Examples**  | [Appify/Wiki](https://github.com/DinoscapeProgramming/Appify/wiki/Notebooks-and-Tutorials) |
+| 🚀 **Released Versions**         | [Appify/Wiki](https://github.com/DinoscapeProgramming/Appify/releases/)|
+| 🤖 **Self-Hosting Appify** | [Appify/README.md](https://github.com/DinoscapeProgramming/Appify#self-hosting)|
+| ✨ **How to contribute**       |[Appify/README.md](#contribution-guidelines)|
