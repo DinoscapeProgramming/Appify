@@ -12,7 +12,7 @@ Appify is a tiny tool for converting your websites into native desktop apps. It'
 
 :movie_camera::  [Interactive Tutorial and Installation Guide](https://DinoscapeProgramming.github.io/Appify/tutorial)
 
-:page_facing_up: [Latest Release 1.0.0](https://github.com/DinoscapeProgramming/Appify/releases/tag/1.0.0)
+:page_facing_up: [Latest Release 1.0.0 (Up to date)](https://github.com/DinoscapeProgramming/Appify/releases/tag/1.0.0)
 
 ## 💬 Where to ask questions
 Please use our dedicated channels for questions and discussion. Help is much more valuable if it's shared publicly, so that more people can benefit from it.
