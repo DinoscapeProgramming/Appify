@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Appify</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <div class="container-contact100">
+      <div class="wrap-contact100">
+        <form id="appForm" class="contact100-form validate-form">
+          <span class="contact100-form-title">Build Your App</span>
+          <div class="wrap-input100 validate-input">
+            <span class="label-input100">Your Website URL</span>
+            <input
+              class="input100"
+              type="url"
+              name="website"
+              placeholder="Enter your website"
+            />
+            <span class="focus-input100"></span>
+          </div>
+          <div class="wrap-input100 validate-input">
+            <span class="label-input100">Name</span>
+            <input
+              class="input100"
+              type="text"
+              name="name"
+              placeholder="Enter your app name"
+              onkeydown="if (!(new RegExp('^(?:(?:@(?:[a-zA-Z0-9-*~ ][a-zA-Z0-9-*._~ ]*)?/[a-zA-Z0-9-._~ ])|[a-zA-Z0-9-~ ])[a-zA-Z0-9-._~ ]*$')).test(event.key)) {
+                event.preventDefault();
+              };"
+            />
+            <span class="focus-input100"></span>
+          </div>
+
+          <div class="wrap-input100 validate-input">
+            <span class="label-input100">Description</span>
+            <textarea
+              class="input100"
+              name="description"
+              placeholder="Your description here..."
+              style="resize: vertical"
+            ></textarea>
+            <span class="focus-input100"></span>
+          </div>
+          <div class="wrap-input100 validate-input">
+            <span class="label-input100">Icon</span>
+            <input
+              class="input100"
+              type="file"
+              name="icon"
+              accept="image/x-icon"
+              style="margin-top: 2.75px; margin-bottom: -2.5px"
+            />
+            <span class="focus-input100"></span>
+          </div>
+          <div class="container-contact100-form-btn">
+            <div class="wrap-contact100-form-btn" style="filter: none">
+              <div class="contact100-form-bgbtn"></div>
+              <button class="contact100-form-btn">
+                <span
+                  >Create<i
+                    class="fa fa-long-arrow-right m-l-7"
+                    aria-hidden="true"
+                    style="margin-left: 7.5px"
+                  ></i>
+                </span>
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
