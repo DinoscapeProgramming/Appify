@@ -6,13 +6,13 @@
 Appify is a tiny tool for converting your websites into native desktop apps. It's built on the latest version of [electron.js](https://npmjs.com/package/electron), was designed to achieve the best trade-off among user interface and quality.
 
 [![License](<https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg>)]([https://opensource.org/licenses/MPL-2.0](https://opensource.org/license/apache-2-0/))
-[![Release](<https://img.shields.io/badge/Release-1.0.0-brightgreen.svg>)]([https://opensource.org/licenses/MPL-2.0](https://github.com/DinoscapeProgramming/Appify/releases/tag/1.0.0))
+[![Release](<https://img.shields.io/badge/Release-1.0.0-brightgreen.svg>)]([https://opensource.org/licenses/MPL-2.0](https://github.com/DinoscapeProgramming/Appify/releases/tag/v1.0.0))
 
 :computer: [Our Website for Appify](https://DinoscapeProgramming.github.io/Appify/)
 
 :movie_camera::  [Interactive Tutorial and Installation Guide](https://DinoscapeProgramming.github.io/Appify/tutorial)
 
-:page_facing_up: [Latest Release 1.0.0 (Up to date)](https://github.com/DinoscapeProgramming/Appify/releases/tag/1.0.0)
+:page_facing_up: [Latest Release 1.0.0 (Up to date)](https://github.com/DinoscapeProgramming/Appify/releases/tag/v1.0.0)
 
 ## 💬 Where to ask questions
 Please use our dedicated channels for questions and discussion. Help is much more valuable if it's shared publicly, so that more people can benefit from it.
