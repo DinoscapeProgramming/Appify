@@ -59,7 +59,7 @@ wget -qO- "https://github.com/DinoscapeProgramming/Appify/releases/download/v1.0
 | 📝 **Description**            | Must only include [ASCII-characters](https://developer.mozilla.org/en-US/docs/Glossary/ASCII?retiredLocale=de) |
 | 🖼️ **Icon**                   | Must be an [ICO-file](https://en.wikipedia.org/wiki/ICO_(file_format)) and must be at least _256x256_ in image size |
 
-## Self-Hosting
+## Self Hosting
 Make sure that you have [git](https://git-scm.com/) installed and then execute the following `bash script` in your terminal
 ```sh
 git clone https://github.com/DinoscapeProgramming/Appify.git
