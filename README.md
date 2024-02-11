@@ -8,11 +8,11 @@ Appify is a tiny tool for converting your websites into native desktop apps. It'
 [![License](<https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg>)]([https://opensource.org/licenses/MPL-2.0](https://opensource.org/license/apache-2-0/))
 [![Release](<https://img.shields.io/badge/Release-1.0.0-brightgreen.svg>)]([https://opensource.org/licenses/MPL-2.0](https://github.com/DinoscapeProgramming/Appify/releases/tag/1.0.0))
 
-:loudspeaker: [English Voice Samples](https://erogol.github.io/ddc-samples/) and [SoundCloud playlist](https://soundcloud.com/user-565970875/pocket-article-wavernn-and-tacotron2)
+:computer: [Website](https://DinoscapeProgramming.github.io/Appify/)
 
-:man_cook:  [TTS training recipes](https://github.com/erogol/TTS_recipes)
+::  [Tutorial](https://DinoscapeProgramming.github.io/Appify/tutorial)
 
-:page_facing_up: [Text-to-Speech paper collection](https://github.com/erogol/TTS-papers)
+:page_facing_up: [Release](https://github.com/erogol/TTS-papers)
 
 ## 💬 Where to ask questions
 Please use our dedicated channels for questions and discussion. Help is much more valuable if it's shared publicly, so that more people can benefit from it.
