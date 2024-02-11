@@ -31,7 +31,7 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 ## 🔗 Links and Resources
 | Type                            | Links                               |
 | ------------------------------- | --------------------------------------- |
-| 💾 **Installation** | [TTS/README.md](https://github.com/DinoscapeProgramming/Appify/tree/dev#install-tts)|
+| 💾 **Installation** | [TTS/README.md](https://github.com/DinoscapeProgramming/Appify/tree/dev#install-appify)|
 | 👩🏾‍🏫 **Tutorials and Examples**  | [TTS/Wiki](https://github.com/DinoscapeProgramming/Appify/wiki/Notebooks-and-Tutorials) |
 | 🚀 **Released Versions**         | [TTS/Wiki](https://github.com/DinoscapeProgramming/Appify/releases/)|
 | 🤖 **Self-Hosting Appify** | [TTS/README.md](https://github.com/DinoscapeProgramming/Appify#self-hosting)|
