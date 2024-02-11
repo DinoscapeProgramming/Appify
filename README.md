@@ -3,7 +3,7 @@
 
 # APPIFY: A tool to turn your sites into apps.
 
-Appify is a tiny tool for converting your websites into native desktop apps. It's built on the latest version of [Electron](https://github.com/electron/electron), was designed to achieve the best trade-off among user interface and quality.
+Appify is a tiny tool for converting your websites into native desktop apps. It's built on the latest version of [electron.js](https://github.com/electron/electron), was designed to achieve the best trade-off among user interface and quality.
 
 [![CircleCI](<https://circleci.com/gh/mozilla/TTS/tree/dev.svg?style=svg>)]()
 [![License](<https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg>)](https://opensource.org/licenses/MPL-2.0)
