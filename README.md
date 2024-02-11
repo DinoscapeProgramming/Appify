@@ -8,11 +8,11 @@ Appify is a tiny tool for converting your websites into native desktop apps. It'
 [![License](<https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg>)]([https://opensource.org/licenses/MPL-2.0](https://opensource.org/license/apache-2-0/))
 [![Release](<https://img.shields.io/badge/Release-1.0.0-brightgreen.svg>)]([https://opensource.org/licenses/MPL-2.0](https://github.com/DinoscapeProgramming/Appify/releases/tag/1.0.0))
 
-:computer: [Website](https://DinoscapeProgramming.github.io/Appify/)
+:computer: [Our Website for Appify](https://DinoscapeProgramming.github.io/Appify/)
 
-:movie_camera::  [Tutorial](https://DinoscapeProgramming.github.io/Appify/tutorial)
+:movie_camera::  [Interactive Tutorial and Installation Guide](https://DinoscapeProgramming.github.io/Appify/tutorial)
 
-:page_facing_up: [Release](https://github.com/DinoscapeProgramming/Appify/releases/tag/1.0.0)
+:page_facing_up: [Latest Release 1.0.0](https://github.com/DinoscapeProgramming/Appify/releases/tag/1.0.0)
 
 ## 💬 Where to ask questions
 Please use our dedicated channels for questions and discussion. Help is much more valuable if it's shared publicly, so that more people can benefit from it.
