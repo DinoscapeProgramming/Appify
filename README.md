@@ -20,15 +20,12 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 | Type                            | Platforms                               |
 | ------------------------------- | --------------------------------------- |
 | 🚨 **Bug Reports**              | [GitHub Issue Tracker]                  |
-| ❔ **FAQ**                       | [TTS/Wiki](https://github.com/mozilla/TTS/wiki/FAQ)                              |
+| ❔ **FAQ**                       | [TTS/Wiki](https://github.com/DinoscapeProgramming/Appify/wiki/FAQ)                              |
 | 🎁 **Feature Requests & Ideas** | [GitHub Issue Tracker]                  |
-| 👩‍💻 **Usage Questions**          | [Discourse Forum]                       |
-| 🗯 **General Discussion**        | [Discourse Forum] and [Matrix Channel]  |
+| 👩‍💻 **Usage Questions**          | [Website]                       |
 
-[github issue tracker]: https://github.com/mozilla/tts/issues
-[discourse forum]: https://discourse.mozilla.org/c/tts/
-[matrix channel]: https://matrix.to/#/!KTePhNahjgiVumkqca:matrix.org?via=matrix.org
-[Tutorials and Examples]: https://github.com/mozilla/TTS/wiki/TTS-Notebooks-and-Tutorials
+[github issue tracker]: https://github.com/DinoscapeProgramming/Appify/issues
+[website]: https://DinoscapeProgramming.github.io/Appify/tutorial
 
 
 ## 🔗 Links and Resources
