@@ -41,7 +41,9 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 ### Manual Installation
 - Visit [Our Latest Release Page](https://github.com/DinoscapeProgramming/Appify/releases/tag/v1.0.0)
 - Download The Executable to Setup Appify
+- Some browsers might actually warn you about downloading an `exe-File`, just click `download anyways`
 - Run the File and Go through the Installer
+- Windows defender will probably jump in too when you try to open the file, just go to `additional information` and click `open anyways`
 
 ### Programmatic Installation
 ```sh
