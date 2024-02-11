@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/1402048/104139991-3fd15e00-53af-11eb-8640-3a78a64641dd.png" data-canonical-src="![TTS banner](https://user-images.githubusercontent.com/1402048/104139991-3fd15e00-53af-11eb-8640-3a78a64641dd.png =250x250)
+<img src="https://i.ibb.co/nf4dLkk/unnamed-removebg-preview.png" data-canonical-src="![Appify banner](https://i.ibb.co/nf4dLkk/unnamed-removebg-preview.png)
 " width="256" height="256" align="right" />
 
 # APPIFY: A tool to turn your sites into apps.
