@@ -31,10 +31,8 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 ## 🔗 Links and Resources
 | Type                            | Links                               |
 | ------------------------------- | --------------------------------------- |
-| 💾 **Installation** | [TTS/README.md](https://github.com/mozilla/TTS/tree/dev#install-tts)|
-| 👩🏾‍🏫 **Tutorials and Examples**  | [TTS/Wiki](https://github.com/mozilla/TTS/wiki/TTS-Notebooks-and-Tutorials) |
-| 🚀 **Released Models**         | [TTS/Wiki](https://github.com/mozilla/TTS/wiki/Released-Models)|
-| 💻 **Docker Image**            | [Repository by @synesthesiam](https://github.com/synesthesiam/docker-mozillatts)|
-| 🖥️ **Demo Server**             | [TTS/server](https://github.com/mozilla/TTS/tree/master/TTS/server)|
-| 🤖 **Running TTS on Terminal** | [TTS/README.md](https://github.com/mozilla/TTS#example-synthesizing-speech-on-terminal-using-the-released-models)|
+| 💾 **Installation** | [TTS/README.md](https://github.com/DinoscapeProgramming/Appify/tree/dev#install-tts)|
+| 👩🏾‍🏫 **Tutorials and Examples**  | [TTS/Wiki](https://github.com/DinoscapeProgramming/Appify/wiki/Notebooks-and-Tutorials) |
+| 🚀 **Released Versions**         | [TTS/Wiki](https://github.com/DinoscapeProgramming/Appify/releases/)|
+| 🤖 **Self-Hosting Appify** | [TTS/README.md](https://github.com/DinoscapeProgramming/Appify#self-hosting)|
 | ✨ **How to contribute**       |[TTS/README.md](#contribution-guidelines)|
