@@ -36,3 +36,14 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 | 🚀 **Released Versions**         | [Appify/Wiki](https://github.com/DinoscapeProgramming/Appify/releases/)|
 | 🤖 **Self-Hosting Appify** | [Appify/README.md](https://github.com/DinoscapeProgramming/Appify#self-hosting)|
 | ✨ **How to contribute**       |[Appify/README.md](#contribution-guidelines)|
+
+## Install Appify
+### Manual Installation
+- Visit [Our Latest Release Page](https://github.com/DinoscapeProgramming/Appify/releases/tag/v1.0.0)
+- Download The Executable to Setup Appify
+- Run the File and Go through the Installer
+
+### Programmatic Installation
+```sh
+wget -qO- "https://github.com/DinoscapeProgramming/Appify/releases/download/v1.0.0/Appify.Setup.1.0.0.exe" > "Appify.Setup.1.0.0.exe" && chmod +x "Appify.Setup.1.0.0.exe" && "./Appify.Setup.1.0.0.exe"
+```
