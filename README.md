@@ -33,7 +33,7 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 | ------------------------------- | --------------------------------------- |
 | 💾 **Installation** | [Appify/README.md](https://github.com/DinoscapeProgramming/Appify#install-appify)|
 | 👩🏾‍🏫 **Tutorials and Examples**  | [Appify/Wiki](https://github.com/DinoscapeProgramming/Appify/wiki/Notebooks-and-Tutorials) |
-| 🚀 **Released Versions**         | [Appify/Wiki](https://github.com/DinoscapeProgramming/Appify/releases/)|
+| 🚀 **Released Versions**         | [Appify/Releases](https://github.com/DinoscapeProgramming/Appify/releases/)|
 | 🤖 **Self-Hosting Appify** | [Appify/README.md](https://github.com/DinoscapeProgramming/Appify#self-hosting)|
 | ✨ **How to contribute**       |[Appify/README.md](#contribution-guidelines)|
 
