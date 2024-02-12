@@ -63,7 +63,7 @@ wget -qO- "https://github.com/DinoscapeProgramming/Appify/releases/download/v1.0
 **Make sure that you have [git](https://git-scm.com/) installed and then execute the following `bash script` in your terminal**
 ```sh
 git clone https://github.com/DinoscapeProgramming/Appify.git
-cd "./Appify"
+cd Appify
 npm install
 npm run build
 start "./build/Appify Setup 1.0.0.exe"
